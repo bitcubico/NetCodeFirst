@@ -1,8 +1,0 @@
-# Glosario Code First .Net Framework
-
-## R
-- **`Remove-Migration`**: Elimina la última migración de la lista, si esta ya fue ejecutada en la base de datos, no se puede eliminar. Debe primero actualizar la base de datos a la versión anterior a esta e intentar nuevamente
-
-## U
-- **`Update-Database`**: Actualiza a la última versión la base de datos
-- **`Update-Database`** -migration <nombre_migracion>: Actualiza la base de datos a una migración específica
