@@ -9,4 +9,5 @@
 
 ## U
 - **`update-database`**: Actualiza a la última versión la base de datos
+- **`update-database -TargetMigration <nombre_migracion>`**: Actualiza la base de datos a una migración específica
 - **`update-database -migration <nombre_migracion>`**: Actualiza la base de datos a una migración específica
